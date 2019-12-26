@@ -1,0 +1,4 @@
+rootProject.name = 'nfc'
+include 'nfc-user'
+include 'nfc-app'
+
